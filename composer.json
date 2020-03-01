@@ -1,0 +1,11 @@
+{
+    "name": "hongaar/renovate-test-private",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Joram van den Boezem",
+            "email": "joram@vandenboezem.nl"
+        }
+    ],
+    "require": {}
+}
